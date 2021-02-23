@@ -1,0 +1,42 @@
+.input100 {
+    transition: all 0.4s;
+}
+
+.kap-loading {
+    display: block;
+    float: left;
+    margin-top: 4px;
+}
+
+.agree-terms {
+    float: none!important;
+}
+.agree-container {
+    margin-top: 16px;
+    margin-bottom: 24px!important;
+}
+
+.form-check-input.is-valid:checked, .was-validated .form-check-input:valid:checked {
+    background-color: #fdfdfd!important;
+}
+
+.kap-response {
+    display: none;
+    margin-top: 18px;
+    border: 2px solid rgb(50 181 17 / 43%)!important;
+}
+
+.btn-primary {
+    transition: all 0.2s!important;
+}
+
+#kap-change-token {
+    margin-top: 16px;
+}
+
+.kap_token_preview {
+    font-style: italic;
+    font-weight: 600;
+    margin-top: 24px;
+    font-size: 14px;
+}
