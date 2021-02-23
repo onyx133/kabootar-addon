@@ -1,3 +1,3 @@
 # kabotar-addon
 
-پلاگینی برای ابزار کبوتر که تمام پست‌ها و آدرس‌های پست‌های شما را می‌گیرد و در کبوتر اضافه می‌کند
+With kabootar-addon plugin, you can send all of your posts, pages, tags, cats, products,... to kabbotar without any click.
